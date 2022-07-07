@@ -1,0 +1,23 @@
+{
+  "name": "mi-pagina-web",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d src"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SaitoM17/Mi-pagina-web.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SaitoM17/Mi-pagina-web/issues"
+  },
+  "homepage": "https://github.com/SaitoM17/Mi-pagina-web#readme",
+  "devDependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
